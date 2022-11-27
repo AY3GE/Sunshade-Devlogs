@@ -6,7 +6,9 @@ The game will be extremely inspired by Rain World, and if you don't know what th
 
 ------
 
-We have created quite a few playable characters, two of them are named "Kitax" and "Neko."![Kitax](https://user-images.githubusercontent.com/109200091/204119355-11a4cbba-c665-43d0-9631-0bd5726ad2ac.png)
+We have created quite a few playable characters, two of them are named "Kitax" and "Neko."
+
+![Kitax](https://user-images.githubusercontent.com/109200091/204119355-11a4cbba-c665-43d0-9631-0bd5726ad2ac.png)
 ![Neko](https://user-images.githubusercontent.com/109200091/204119365-06fc67cb-fcb5-44b8-b53b-06871e0a2974.png)
 
 Kitax will be the hard mode, with most hostile creatures hating him and some even hunting him down, and Neko will be the easy mode, with an artifact that guides him to his goals. Pretty much all of our other characters are very unfinished as of right now.
