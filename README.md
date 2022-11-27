@@ -4,7 +4,10 @@ as you make your way through the harsh landscape, in search of... something, *an
 
 The game will be extremely inspired by Rain World, and if you don't know what thats is, check it out.
 
-------
+---
+---
+
+11/26/22
 
 We have created quite a few playable characters, two of them are named "Kitax" and "Neko."
 
@@ -19,4 +22,7 @@ We have been wanting some of the areas of the game to look like some of the art 
 
 One of those are called the "Blood Forest," an overgrown industrial plant with most of the moss turning a reddish-pink color, also filling the air with the same color chemicals, giving everything a red-pink tint.
 
-![Blood_Forest](https://user-images.githubusercontent.com/109200091/204119741-ae937099-1a1e-49cd-b68f-b36039c1338d.png)
+![Untitled245_20221127110621](https://user-images.githubusercontent.com/109200091/204155202-3401dae7-5cf0-4a98-8968-17da52ce9ba0.jpg)
+
+---
+---
