@@ -7,6 +7,13 @@ The game will be extremely inspired by Rain World, and if you don't know what th
 ---
 ---
 
+4/8/23
+
+I have began learning how to use Unity and to code using C#. This will take a pretty long time to finish learning, so we havent started actually creating the game yet, plus we are still working on concepts and stuff. Also, we now have at least 4 playable characters planned out, and we have finally got ideas for the endings and campaigns of Kitax and Neko.
+
+---
+---
+
 11/26/22
 
 We have created quite a few playable characters, two of them are named "Kitax" and "Neko."
